@@ -60,7 +60,7 @@ img{
     text-transform: uppercase;
     font-weight: normal;
 }
-p{
+.home-content p{
     color: #432c02;
     align-content: space-around;
     text-align: left;
