@@ -62,6 +62,7 @@ img{
 }
 p{
     color: #432c02;
+    align-content: space-around;
 }
 
 /* ボタン */
@@ -141,7 +142,7 @@ p{
     text-align: center;
 }
 
-/* 自己紹介 */
+/* コメント */
 .greeting{
     color: #432c02;
     font-size: 1.325rem;
