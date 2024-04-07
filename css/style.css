@@ -133,7 +133,7 @@ p{
 /* Birthday-gift */
 #birthday-gift{
     background-image: url(../images/birthday-gift-bg.jpg);
-    height: 270px;
+    height: 370px;
     margin-bottom: 40px;
 }
 #birthday-gift .page-title{
@@ -190,7 +190,7 @@ footer p{
 /* News */
 #news{
     background-image: url(../images/news-bg.jpg);
-    height: 270px;
+    height: 370px;
     margin-bottom: 40px;
 }
 #news .page-title{
